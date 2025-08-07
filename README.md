@@ -1,4 +1,4 @@
-# Eye-Tracking Analysis for Cyclist Visual Attention
+# Investigating Cyclists’ Gaze Behavior and Trajectory Fixation by Comparing Day and Night Time with a Headlight Adjustment
 
 This repository contains analysis scripts used to study cyclist gaze behavior under different environmental conditions using eye-tracking data.
 
